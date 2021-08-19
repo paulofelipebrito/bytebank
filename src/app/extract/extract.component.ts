@@ -7,7 +7,7 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class ExtractComponent implements OnInit {
 
-  @Input() transferencia: any;
+  @Input() transferencias: any[] = [];
 
   constructor() { }
 
