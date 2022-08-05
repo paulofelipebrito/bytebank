@@ -14,9 +14,9 @@ Welcome to the _GitHub repository_ of my **Bytebank** project! Here you can find
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="bytebank" title="#bytebank" src="./assets/transferByteBank.png" > 
+  <img alt="bytebank" title="#bytebank" src="./src/assets/transferByteBank.png" > 
 
-  <img alt="bytebank" title="#bytebank" src="./assets/newTransferByteBank.png">
+  <img alt="bytebank" title="#bytebank" src="./src/assets/newTransferByteBank.png">
 
 </p>
 </div>
